@@ -4,6 +4,6 @@
 | :-: | ----------- | ---------------------- |
 |  1  | [A04](assignments/A04/README.md) | [Basic OOP terminology](assignments/A04/README.md)|
 |  2  | [P01](assignments/P01/README.md)     | [Fraction class](assignments/P01/README.md)        |
-|  3  | link 0      | description 0          |
-|  4  | link 0      | description 0          |
-|  5  | link 0      | description 0          |
+|  3  | [P02A](assignments/P02A/README.md)      | [Ncurses test](assignments/P02A/README.md)         |
+|  4  | [P02B](assignments/P02B/README.md)     | [P02B](assignments/P02B/README.md)          |
+|  5  | [P02C](assignments/P02C/README.md)      | [P02C](assignments/P02C/README.md)          |
