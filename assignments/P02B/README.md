@@ -6,17 +6,17 @@ this page is useed to bring together my thoughts and brainsorm possible classes 
 
 ### possible classes
 
-**Dice Class:
-
-Data: sides, current_value
-Actions: roll(), get_value()
-Relationships: Dice will be used by the Player to roll during the game.
+-Dice Class:
+  -Data: sides, current_value
+  -Actions: roll(), get_value()
+  -Relationships: Dice will be used by the Player to roll during the game.
 **Player Class:
 
 Data: name, score, dice_set, player_stats
 Actions: roll_dice(), get_score(), update_score()
 Relationships: Each player has a set of dice and participates in the game.
-**Game Class:
+
+Game Class:
 
 Data: players, rules, current_round
 Actions: start_game(), end_game(), get_winner()
