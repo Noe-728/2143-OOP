@@ -8,4 +8,4 @@ this program is a simple ncurses test of hello world
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [main.cpp](main.cpp)         | the main cpp file     |
+|   1   | [hello_ncurses.cpp](hello_ncurses.cpp)         | hello world in ncurses    |
