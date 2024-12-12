@@ -9,3 +9,8 @@ this program is a simple ncurses test of hello world
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
 |   1   | [hello_ncurses.cpp](hello_ncurses.cpp)         | hello world in ncurses    |
+
+## instructions
+
+* make sure oyu have ncurses installed
+* run the program
