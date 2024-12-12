@@ -3,6 +3,7 @@
 ### Description: 
 
 this page is useed to bring together my thoughts and brainsorm possible classes for  knucklebones 
+- `python <code> <input file> <num players>`
 
 ### possible classes
 
