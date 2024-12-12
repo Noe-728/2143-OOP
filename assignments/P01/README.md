@@ -2,9 +2,10 @@
 
 ### Description: 
 
-This program blah blah blah
+this program creates a proper fraction class that will overload the +, -, *, /, and == operators.
 
+### Files 
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | Main.cpp         | etc      |
+|   1   | main.cpp         | etc      |
