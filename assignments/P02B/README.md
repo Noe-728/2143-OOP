@@ -6,7 +6,7 @@ this page is useed to bring together my thoughts and brainsorm possible classes 
 
 ### possible classes
 
-* Dice Class:
+- Dice Class:
   - Data: sides, current_value
   - Actions: roll(), get_value()
   - Relationships: Dice will be used by the Player to roll during the game.
