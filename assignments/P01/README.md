@@ -18,6 +18,6 @@ this program creates a proper fraction class that will overload the +, -, *, /, 
 * run main.cpp and and an input file
 * input file should look like this
 
-|   |
+|  fraction |
 | :----------------------------------------------------- |
-|      |
+|  1/2 + 3/4    |
