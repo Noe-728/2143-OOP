@@ -8,6 +8,6 @@ this program creates a proper fraction class that will overload the +, -, *, /, 
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [main.cpp](assignments/P01/main.cpp)         | the main cpp file     |
-|   1   | [Fraction.cpp](assignments/P01/Fraction.cpp)         | hs lcd and gcd   |
-|   1   | [Fraction.h](assignments/P01/Fraction.h)         | header containing the fraction class|
+|   1   | [main.cpp](main.cpp)         | the main cpp file     |
+|   1   | [Fraction.cpp](Fraction.cpp)         | hs lcd and gcd   |
+|   1   | [Fraction.h](Fraction.h)         | header containing the fraction class|
