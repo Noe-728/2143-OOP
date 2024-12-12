@@ -16,3 +16,6 @@ this program creates a proper fraction class that will overload the +, -, *, /, 
 
 * have all files in the same folder interacting
 * run main.cpp and and an input file
+* input file should look like this
+
+  
