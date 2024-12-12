@@ -10,12 +10,12 @@
   - Relationships: Dice will be used by the Player to roll during the game.
 
 ### - Player Class :
-  - Data : `name`, `score`, `dice_set`, `player_stats`
-  - Actions: `roll_dice()`, `get_score()`, "update_score()"
+  - Data : `first_name`, `last_name` `score`, `dice_set`, `player_stats`
+  - Actions: `roll_dice()`, `get_score()`, `update_score()`, `get_fname`, `get_lname`
   - Relationships : Each player has a set of dice and participates in the game.
 
 ### - Game Class :
-  - Data : `players`, `rules`, `current_round`
+  - Data : `players`, `rules`, `current_round`, `winner`
   - Actions : `start_game()`, `end_game()`, `get_winner()`
   - Relationships : The Game class controls the players and their actions.
 
