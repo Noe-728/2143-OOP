@@ -13,7 +13,7 @@ this page is useed to bring together my thoughts and brainsorm possible classes 
     
 - Player Class:
   - Data: 'name', 'score', 'dice_set', 'player_stats'
-  - Actions: 'roll_dice()', 'get_score()', 'update_score()'
+  - Actions: 'roll_dice()', 'get_score()', "update_score()"
   - Relationships: Each player has a set of dice and participates in the game.
 
 -Game Class:
