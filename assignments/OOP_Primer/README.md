@@ -5,6 +5,7 @@
 
 # Abstract Classes 
 > Classes that cannot be instantiated directly and are used as base classes for inheritance.
+> https://pumpkinprogrammerdotcom4.wordpress.com/wp-content/uploads/2014/07/abstract-1.jpg
 
  # Interfaces
 > A contract that defines a set of methods that a class must implement.
