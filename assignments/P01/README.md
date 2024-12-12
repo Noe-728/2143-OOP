@@ -19,7 +19,7 @@ this program creates a proper fraction class that will overload the +, -, *, /, 
 * input file should look like this
 
 |  fraction |
-| :----------------------------------------------------- |
+
 |  1/2 + 3/4    |
 |   5/6 - 1/3  |
 |   2/3 * 4/5 |
